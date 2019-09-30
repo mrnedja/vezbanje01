@@ -1,2 +1,2 @@
 "Pozadrav iz prvog fajla..."
-"...sa master grane!"
+"...sa nove grane!"
